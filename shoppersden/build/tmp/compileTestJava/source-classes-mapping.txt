@@ -1,0 +1,4 @@
+com/den/connTest/connTest.java
+ com.den.connTest.connTest
+com/den/connTest/prodTest.java
+ com.den.connTest.prodTest
